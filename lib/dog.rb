@@ -1,6 +1,7 @@
 class Dog
-  fido = nil 
-  snoopy = nil 
-  lassie = nil  
 
 end # end Dog class
+
+fido = Dog.new 
+snoopy = Dog.new 
+lassie = Dog.new 
